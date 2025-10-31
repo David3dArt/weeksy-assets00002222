@@ -1,5 +1,22 @@
-[
-  { "id":"econ101", "name":"Economics I", "url":"https://github.com/David3dArt/weeksy-assets00002222/raw/refs/heads/main/subjects/Default-subject.js" },
-  { "id":"math101", "name":"Mathematics I", "url":"https://raw.githubusercontent.com/you/repo/main/subjects/math101.js" }
-]
+window.catalogData = {
+  "subjects": [
+        {
+          "id": "econ101",
+          "name": "Economics I",
+          "url": "https://github.com/David3dArt/weeksy-assets00002222/raw/refs/heads/main/subjects/Default-subject.js"
+        },
+        {
+          "id": "math101",
+          "name": "Mathematics I",
+          "url": "https://raw.githubusercontent.com/you/repo/main/subjects/math101.js"
+        }
 
+  
+  
+  
+  
+  
+  
+  
+  ]
+};
